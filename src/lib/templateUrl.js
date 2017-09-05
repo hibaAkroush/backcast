@@ -1,6 +1,5 @@
 
 // DO NOT MODIFY THIS CODE -- unless you find a bug.
-
 // Dynamically load HTML template files into the browser.
 // This is a very simple loader, in some ways, similar to webpack
 
